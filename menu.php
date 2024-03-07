@@ -46,7 +46,7 @@
                                                  <div class='tab-item'>
                                                      <img src='assets/images/tab-item-02.png' alt=''>
                                                      <h4>Orange Juice</h4>
-                                                     <p>shetty's cafe special for you.....................</p>
+                                                     <p>cafe special for you.....................</p>
                                                      <div class='price'>
                                                          <h6>85 rs.</h6>
                                                      </div>

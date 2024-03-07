@@ -6,6 +6,7 @@
 -- Generation Time: Jan 17, 2021 at 07:16 AM
 -- Server version: 10.1.35-MariaDB
 -- PHP Version: 7.2.9
+--- By KIRAN KUMAR K  && DANESHWARI SAJJANAR
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
@@ -19,7 +20,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `shettycafe`
+-- Database: `cafe-mannagement system`
 --
 
 -- --------------------------------------------------------
